@@ -43,3 +43,13 @@ blockquote:before {
     color: rgba(69, 45, 26);
     background: rgba(69, 45, 26);
 }
+
+.menu {
+    border: solid;
+    border-width: 2px;
+    padding-top: 10%;
+    padding-bottom: 8%;
+    position: relative;
+    color: black;
+    background: black;
+}
